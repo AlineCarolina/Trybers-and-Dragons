@@ -1,12 +1,12 @@
 # Project Trybe and Dragons !
 
-Neste projeto foi desenvolvido  Back-end de uma estrutura de um jogo de interpretação de papéis, mais conhecidos como jogos RPG, Trybers and Dragons. Neste universo há seres de diversas raças, com caracteristicas e poderes diferentesm que podem lutar entre si.
+In this project, the back-end of a structure of a role-playing game, better known as RPG games, Trybers and Dragons, was developed. In this universe there are beings of different races, with different characteristics and powers that can fight each other.
 
 ---
 
 ## About the project
 
-Este projeto foi desenvolvido com foco na aprendizagem da aplicação dos principios da arquitetura SOLID e os princípios da Programação Orientada a Objetos (Herança, Abstração, Encapsulamento e Polimorfismo).
+This project was developed with a focus on learning the application of the principles of SOLID architecture and the principles of Object Oriented Programming (Inheritance, Abstraction, Encapsulation and Polymorphism).
 
 ---
 
